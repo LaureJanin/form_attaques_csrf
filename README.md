@@ -1,6 +1,6 @@
 # form_attaques_csrf
 1A
-2B
+2A
 3A
 4B
 5B
